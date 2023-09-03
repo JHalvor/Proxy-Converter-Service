@@ -1,0 +1,29 @@
+<record>
+  <source="A" />
+  <dest="X" />
+  <semester="2" />
+  <courses>
+    <course="IN1000" />
+    <course="IN1010" />
+    <course="IN1020" />
+    <course="IN1030" />
+    <course="IN1050" />
+    <course="IN1060" />
+    <course="IN1080" />
+    <course="IN1910" />
+  </courses>
+</record>
+
+<record>
+  <source="A" />
+  <dest="X" />
+  <username="QuziqQomYQnvf" />
+  <semester="1" />
+</record>
+
+<record>
+  <source="A" />
+  <dest="X" />
+  <id="2402" />
+  <group="5337" />
+</record>

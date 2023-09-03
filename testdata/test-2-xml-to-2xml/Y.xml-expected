@@ -1,0 +1,50 @@
+<record>
+  <source="A" />
+  <dest="Y" />
+  <username="Rfzw" />
+  <grade="Master" />
+</record>
+
+<record>
+  <source="A" />
+  <dest="Y" />
+  <username="TvJkB" />
+  <id="9628" />
+  <group="2813" />
+  <semester="28" />
+  <grade="None" />
+  <courses>
+    <course="IN1000" />
+    <course="IN1020" />
+    <course="IN1030" />
+    <course="IN1050" />
+    <course="IN1080" />
+    <course="IN1150" />
+  </courses>
+</record>
+
+<record>
+  <source="A" />
+  <dest="Y" />
+  <username="ahAcPWCodVgV" />
+  <id="3075" />
+  <semester="18" />
+  <courses>
+    <course="IN1010" />
+    <course="IN1150" />
+  </courses>
+</record>
+
+<record>
+  <source="A" />
+  <dest="Y" />
+  <username="CMoo" />
+  <id="2647" />
+  <semester="18" />
+  <courses>
+    <course="IN1020" />
+    <course="IN1140" />
+    <course="IN1900" />
+    <course="IN1910" />
+  </courses>
+</record>
